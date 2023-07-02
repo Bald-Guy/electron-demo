@@ -1,0 +1,17 @@
+{
+  "name": "electron-demo",
+  "productName": "electron-demo",
+  "version": "1.0.0",
+  "description": "my electron demo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "electron ."
+  },
+  "keywords": [],
+  "author": "Bald Guy",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^25.2.0"
+  }
+}
